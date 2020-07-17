@@ -12,4 +12,4 @@
 <br>
 <img src="/Your-Blank-Certificate/certificate.png">
 
-~~~This certificate has been designed using resources from Freepik.com.
+~This certificate has been designed using resources from Freepik.com.
