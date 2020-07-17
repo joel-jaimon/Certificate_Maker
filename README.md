@@ -10,4 +10,6 @@
 <li><a>Output certificate will be in Your-Certificates folder.</a><br></li>
 </ul>
 <br>
-<img src="/demo.png">
+<img src="/Your-Blank-Certificate/certificate.png">
+
+~~~This certificate has been designed using resources from Freepik.com.
