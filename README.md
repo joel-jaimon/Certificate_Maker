@@ -1,7 +1,6 @@
 # Certificate_Maker
 <p>A really usefull python script for issuing certificates to a given list of candidates.</p>
 <a>This require Pillow to work, Pillow will be installed if not found in ur computer automatically. Just run generate_certificates.py.
-  <br>
 <h2>--- Instructions---</h2>
 <ul>
 <li><a>Copy the names of candidates in candidate_list.txt.</a><br></li>
